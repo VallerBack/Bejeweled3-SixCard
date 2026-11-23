@@ -1,0 +1,9 @@
+/build/
+/out/
+/game/
+*.obj
+*.pdb
+*.ilk
+*.sav
+*.bj6
+*.bj3stats

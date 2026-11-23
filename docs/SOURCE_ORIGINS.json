@@ -1,0 +1,188 @@
+[
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/danger_hooks.cpp",
+    "destination": "src/game/danger_hooks.cpp",
+    "sha256": "40f80f8b1404d09157c787de3eafa3325a26b6a28c2d83dbd710b6c92ffe6cef",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/danger_steps.h",
+    "destination": "src/game/danger_steps.h",
+    "sha256": "27fefb588292765f2d94952fa98d40a608c5eddd0c1aa62afb43f541b0c05cf5",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/deferred_save.cpp",
+    "destination": "src/game/deferred_save.cpp",
+    "sha256": "9eefc3321c55f197ff5e3d328509605ea6a99f3fc13c159d80328c5b61c83c6b",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/game_statistics_session.h",
+    "destination": "src/game/game_statistics_session.h",
+    "sha256": "845313d8fa1637d244c8014710512c766d335763321c7c74edc082263699c2c9",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/game_stats_persistence.cpp",
+    "destination": "src/game/game_stats_persistence.cpp",
+    "sha256": "46dd6c16df280ec5aeca25644f1eee13ca736bb4c565b5d07eb5bcfb1226205c",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/game_stats_record.h",
+    "destination": "src/game/game_stats_record.h",
+    "sha256": "460f6f3a2dd150a2e97665a32f1b56b3e27d2bf7c2c7670d78402c76b8ff38b5",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/mode_scope.cpp",
+    "destination": "src/game/mode_scope.cpp",
+    "sha256": "1ed0db1a2e87c5b806472a65c90dd4d0a0b548760fba2b5c8106327439118b09",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/native_hand_bytes.inc",
+    "destination": "src/game/native_hand_bytes.inc",
+    "sha256": "4f319e8d31716a7fbed8582bda358cded9753f273b29922d266fb132dbe45385",
+    "kind": "native-derived bytes"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/native_hover_bytes.inc",
+    "destination": "src/game/native_hover_bytes.inc",
+    "sha256": "efe1369144bba15abba4b57c11b699543f1d3147668d27977a27732af9ba3e4e",
+    "kind": "native-derived bytes"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/native_hud_bytes.inc",
+    "destination": "src/game/native_hud_bytes.inc",
+    "sha256": "369866738a30c0fbbc27f19ab99045d8cc988b0ee36f00a43ac44509122afadb",
+    "kind": "native-derived bytes"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/native_statistics_bytes.inc",
+    "destination": "src/game/native_statistics_bytes.inc",
+    "sha256": "99fad8dc66cc29e55d789e57b3be8dba25c6bb101d807b9bbbdcb710fd7c6d7e",
+    "kind": "native-derived bytes"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/pokerboard_capture_hook.cpp",
+    "destination": "src/game/pokerboard_capture_hook.cpp",
+    "sha256": "2b46c76b5648bfb4012dae379037a390cd8cf08315d308ca9dc64038d3864e8a",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/pokerboard_endlevel_probe.cpp",
+    "destination": "src/game/pokerboard_endlevel_probe.cpp",
+    "sha256": "ef916727b9dccd4d2072b0ffa107c4472947e76064b908c99ae21041e8ab6438",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/pokerboard_face_draw.cpp",
+    "destination": "src/game/pokerboard_face_draw.cpp",
+    "sha256": "b80ae3f3f6d8b179f87a7e7252f41817ee5d74e782475cd7e13716ae70452fc2",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/pokerboard_hook.cpp",
+    "destination": "src/game/pokerboard_hook.cpp",
+    "sha256": "e1bde8b061a871e17fc2cfaeb9722fe02f0c645a49921f1d2eb3a403fbd12f42",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/pokerendlevel_stats.cpp",
+    "destination": "src/game/pokerendlevel_stats.cpp",
+    "sha256": "5c7c2e8d77f63b0a4e0300d3520eec7e6000865fd8e4e05a48efa24e82f619af",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/poker_context.h",
+    "destination": "src/game/poker_context.h",
+    "sha256": "82328cbfbdbe94279c09a447fc7976b4840cc39a44a80ada147071886b2d5f36",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/poker_partial_hand.h",
+    "destination": "src/game/poker_partial_hand.h",
+    "sha256": "b6a59c0ed5b0f77fbbb671b802e87fbfddc3cc3d9cc99be274907aa00170556c",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/poker_rules.h",
+    "destination": "src/game/poker_rules.h",
+    "sha256": "d86ea0983ea7cc47853987c5db80cac6511c7a52295ff25abc2e5285bbcf3bd7",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/poker_sidecar.cpp",
+    "destination": "src/game/poker_sidecar.cpp",
+    "sha256": "2e1a76c40ad67041af74795af0903db73c0019ea7afe0d0c3dc4085aa29dbc53",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/poker_sidecar.h",
+    "destination": "src/game/poker_sidecar.h",
+    "sha256": "63849c0b4e165101cd7c3f784227366d4825584aa3a087ad9eda29681eccfb26",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/poker_table_model.h",
+    "destination": "src/game/poker_table_model.h",
+    "sha256": "90ef36274eba16079550dc54327ecd39a378abc519cc592ee518e91c9c5c2003",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/poker_wait_six.cpp",
+    "destination": "src/game/poker_wait_six.cpp",
+    "sha256": "61edfc768d0fdabe005cf2c47109d6e4896194c57df86307381ff960ac351be3",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/quest_poker_rules.h",
+    "destination": "src/game/quest_poker_rules.h",
+    "sha256": "361c36c25a47311261be6121dcade80868c82e59cae3d3613652e3007f076bc8",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/sixth_acquisition.h",
+    "destination": "src/game/sixth_acquisition.h",
+    "sha256": "3a464e1f2f73b4ad51dbf64f63033adf5ada9e7e631db0b13a18e4b0e3b06f3a",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/six_card_core.cpp",
+    "destination": "src/game/six_card_core.cpp",
+    "sha256": "ae92c65b7a6ec6bf4fd04dcd52c8759c33ac7a4610bfd3115d2b88e8c71e0f06",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/six_card_core.h",
+    "destination": "src/game/six_card_core.h",
+    "sha256": "78dcc4ca39e8df7b3342ae05f5ab656298b4f4ba97c9a8c46306543ea2015d8a",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/Run428_quest_balance/source/stats_pair_io.h",
+    "destination": "src/game/stats_pair_io.h",
+    "sha256": "80560d557af45a3c4793a1b1e3e73136591c49f074c092ed74c34bd1d14f7b10",
+    "kind": "extension source"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/launcher/Run429/bj3_ranker_draw_launch.cpp",
+    "destination": "src/launcher/bj3_ranker_draw_launch.cpp",
+    "sha256": "e3d8ea628c85e0c909819592b3d48de7565ad1b8484ccccf5a80d125e9d36b78",
+    "change": "relative include path only"
+  },
+  {
+    "source": "experiments/six_card_hook_prototype/variant_ranker_draw_integration/launcher/Run429/profile_isolation.h",
+    "destination": "src/launcher/profile_isolation.h",
+    "sha256": "60ce34e1e6c47d77ff916824063974c890c75231f9f434b555a91bcfd44c7fe6",
+    "change": "none"
+  },
+  {
+    "source": "experiments/runtime/run363_build/BJ3LoadProbeDll.cpp",
+    "destination": "src/helper/BJ3DllLoader.cpp",
+    "sha256": "b6ea91aead7cb877d8262a603dd03f0663d4b902482bbbac9336e957dff81b03",
+    "kind": "helper source"
+  }
+]
